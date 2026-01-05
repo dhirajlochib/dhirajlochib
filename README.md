@@ -106,7 +106,7 @@ graph TD
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajlochib&theme=radical&border=ff00ff&ring=00ffcc&fire=ff00ff&currStreakLabel=00ffcc&background=000000" alt="Streak Stats" style="animation: float 1.5s ease-in-out infinite; margin: 10px;"/>  
   <br>  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajlochib&theme=react-dark&bg_color=000000&color=ff00ff&line=00ffcc&point=ff00ff&area=true&hide_border=false" alt="Activity Graph" style="width: 100%; max-width: 1200px; animation: pulsate 0.8s infinite; margin: 10px;"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajlochib&theme=react-dark&bg_color=000000&color=ff00ff&line=00ffcc&point=ff00ff&area=true&hide_border=true" alt="Activity Graph" style="width: 100%; max-width: 1200px; animation: pulsate 0.8s infinite; margin: 10px;"/>  
 </div>
 
 ---
