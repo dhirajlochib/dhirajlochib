@@ -2,8 +2,7 @@
 
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=50&color=FF00FF&center=true&vCenter=true&width=1200&lines=Hi, Buddy I Am Dhiraj Lochib...;You can read more about me down here...;" alt="Typing Animation" style="animation: flicker 0.15s infinite;"/>  
-  <br>  
+  
   
   <h1 style="color:#00ffcc; text-shadow: 0 0 60px #ff00ff, 0 0 120px #00ffcc; font-family: 'Orbitron', sans-serif; font-size: 60px; animation: neonflicker 0.6s infinite; letter-spacing: 4px;">D H I R A J • L O C H I B</h1>  
   <p style="color:#ff00ff; text-shadow: 0 0 40px #00ffcc; font-family: 'Share Tech Mono', monospace; font-size: 26px; letter-spacing: 2px;">>_ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɴᴇᴏɴ ʜᴇʟʟsᴄᴀᴘᴇ, ʏᴏᴜ ᴅᴀᴛᴀ-ᴅʀᴏᴡɴɪɴɢ ᴄʏʙᴇʀ-ʀᴀᴛ</p>  
@@ -104,12 +103,8 @@ graph TD
 ## `> Stats`
 
 <div align="center" style="background: radial-gradient(circle at top left, #000, #1a1a1a, #2a2a2a, #3a3a3a, #000); border: 12px double #00ffcc; box-shadow: 0 0 80px #ff00ff; padding: 45px;">  
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirajlochib&show_icons=true&theme=radical&border_color=ff00ff&title_color=00ffcc&text_color=ff00ff&bg_color=000000&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" style="animation: float 1.5s ease-in-out infinite; margin: 10px;"/>  
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajlochib&theme=radical&border=ff00ff&ring=00ffcc&fire=ff00ff&currStreakLabel=00ffcc&background=000000" alt="Streak Stats" style="animation: float 1.5s ease-in-out infinite; margin: 10px;"/>  
-  <br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajlochib&layout=compact&theme=radical&border_color=ff00ff&title_color=00ffcc&text_color=ff00ff&bg_color=000000&hide=html" alt="Top Languages" style="animation: float 1.5s ease-in-out infinite; margin: 10px;"/>  
-  <br>  
-  <img src="https://github-profile-trophy.vercel.app/?username=dhirajlochib&theme=radical&no-frame=false&margin-w=5&column=12&row=1&border_color=00ffcc&title_color=ff00ff&animation=true" alt="Trophies" style="animation: float 1.5s ease-in-out infinite; margin: 10px;"/>  
   <br>  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajlochib&theme=react-dark&bg_color=000000&color=ff00ff&line=00ffcc&point=ff00ff&area=true&hide_border=false" alt="Activity Graph" style="width: 100%; max-width: 1200px; animation: pulsate 0.8s infinite; margin: 10px;"/>  
 </div>
